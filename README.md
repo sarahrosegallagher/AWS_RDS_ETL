@@ -7,7 +7,7 @@ This analysis compares paid and unpaid reviews from a dataset of 2 million revie
 
 ## Results:
 
-(df here)
+![Review Summary Statistics](stats_df.png)
 
 ### Data Set
 * There were **2.4 million total reviews**, **16 thousand Vine reviews**, and **2.3 million non-Vine reviews**. This under representation of paid reviews compared to unpaid reviews can temper the results of this analysis; that is, a slight difference between the two categories is less meaningful than if the two categories had been equally represented. 
